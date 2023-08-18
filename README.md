@@ -4,7 +4,7 @@
 
 2- Faça um programa que receba dois números e execute as operações listadas a seguir de acordo com a escolha do usuário: 
 <br>Operação--------Escolha do Usuário 
-<br>1---------------Média entre os números digitados
+<br>1------------------Média entre os números digitados
 <br>2               Diferença entre os números
 <br>3               Produtos entre os números digitados
 <br>4               Divisão do primeiro pelo segundo
