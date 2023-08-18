@@ -15,5 +15,5 @@
 <br>2,3 ou 4-------------Alimento perecível
 <br>5 ou 6---------------Vestuário
 <br>7--------------------Higiene Pessoal
-<br>8 até 15-------------------------Limpeza e Utensílios Domésticos
+<br>8 até 15---------------------------Limpeza e Utensílios Domésticos
 <br>Qualquer outro código------Código inválido
