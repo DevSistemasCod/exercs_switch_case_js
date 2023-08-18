@@ -5,9 +5,9 @@
 2- Faça um programa que receba dois números e execute as operações listadas a seguir de acordo com a escolha do usuário: 
 <br>Operação--------Escolha do Usuário 
 <br>1-------------------Média entre os números digitados
-<br>2               Diferença entre os números
-<br>3               Produtos entre os números digitados
-<br>4               Divisão do primeiro pelo segundo
+<br>2-------------------Diferença entre os números
+<br>3-------------------Produtos entre os números digitados
+<br>4-------------------Divisão do primeiro pelo segundo
 
 3.	Faça um código Java que leia o código de um determinado produto e mostre sua classificação. Utilize a seguinte tabela como referência:
  Código                     | Classificação
