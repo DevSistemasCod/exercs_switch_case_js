@@ -9,7 +9,7 @@
 <br>3-------------------Produtos entre os números digitados
 <br>4-------------------Divisão do primeiro pelo segundo
 
-3 - Faça um código Java que leia o código de um determinado produto e mostre sua classificação. Utilize a seguinte tabela como referência:
+3 - Faça um código JavaScript que leia o código de um determinado produto e mostre sua classificação. Utilize a seguinte tabela como referência:
 <br>Código------------Classificação
 <br>1----------------------------------Alimento não-perecível
 <br>2,3 ou 4------------------------Alimento perecível
