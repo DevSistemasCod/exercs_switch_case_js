@@ -12,8 +12,8 @@
 3.	Faça um código Java que leia o código de um determinado produto e mostre sua classificação. Utilize a seguinte tabela como referência:
 <br>Código------------Classificação
 <br>1--------------------Alimento não-perecível
-<br>2,3 ou 4-------------Alimento perecível
-<br>5 ou 6---------------Vestuário
+<br>2,3 ou 4------------------------Alimento perecível
+<br>5 ou 6--------------------------Vestuário
 <br>7----------------------------------Higiene Pessoal
 <br>8 até 15-------------------------Limpeza e Utensílios Domésticos
 <br>Qualquer outro código------Código inválido
