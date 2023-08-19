@@ -35,7 +35,7 @@ function verificarClassificacao() {
     }
 
     let saida = document.getElementById("resultado");
-    saida.innerText = `Classificação do Produto: ${resultado}`;
+    saida.innerText = "Classificação do Produto: "+resultado;
 }
 
 // Função principal que é chamada quando a página é carregada
