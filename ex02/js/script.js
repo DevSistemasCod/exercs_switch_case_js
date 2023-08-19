@@ -22,7 +22,7 @@ function realizarOperacao(operacao, num1, num2) {
 // Função para exibir o resultado na página
 function exibirResultado(resultado) {
     let saida = document.getElementById("resultado");
-    saida.innerText = `Resultado: ${resultado}`;
+    saida.innerText = "Resultado: " + resultado;
 }
 
 // Função principal que é chamada quando a página é carregada
