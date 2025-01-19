@@ -11,7 +11,7 @@
 
 3 - Faça um código JavaScript que leia o código de um determinado produto e mostre sua classificação. Utilize a seguinte tabela como referência:
 <br>Código----------------------------- Classificação
-<br> ---------------------------------- Alimento não-perecível
+<br>1---------------------------------- Alimento não-perecível
 <br>2,3 ou 4 -------------------------- Alimento perecível
 <br>5 ou 6 ---------------------------- Vestuário
 <br>7 --------------------------------- Higiene Pessoal
